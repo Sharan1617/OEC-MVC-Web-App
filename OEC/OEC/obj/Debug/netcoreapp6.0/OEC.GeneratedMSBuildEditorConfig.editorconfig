@@ -8,49 +8,109 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OEC
 build_property.RootNamespace = OEC
-build_property.ProjectDir = C:\Users\Manny\Downloads\OEC\OEC\OEC\
+build_property.ProjectDir = C:\Users\Arman\Desktop\OEC\OEC\OEC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Manny\Downloads\OEC\OEC\OEC
+build_property.MSBuildProjectDirectory = C:\Users\Arman\Desktop\OEC\OEC\OEC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/Home/Index.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Country/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Country/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Country/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Country/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Country/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Farm/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Farm/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Farm/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Farm/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Farm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/Home/Privacy.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/Shared/Error.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Province/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmluY2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Province/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmluY2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Province/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmluY2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Province/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmluY2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Province/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmluY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/Shared/_CookieConsentPartial.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Shared/_CookieConsentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/Shared/_Layout.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/_ViewImports.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Manny/Downloads/OEC/OEC/OEC/Views/_ViewStart.cshtml]
+[C:/Users/Arman/Desktop/OEC/OEC/OEC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
