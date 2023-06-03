@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manny\\Downloads\\OEC\\OEC\\OEC\\OEC.csproj": {}
+    "C:\\Users\\Arman\\Desktop\\OEC\\OEC\\OEC\\OEC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manny\\Downloads\\OEC\\OEC\\OEC\\OEC.csproj": {
+    "C:\\Users\\Arman\\Desktop\\OEC\\OEC\\OEC\\OEC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manny\\Downloads\\OEC\\OEC\\OEC\\OEC.csproj",
+        "projectUniqueName": "C:\\Users\\Arman\\Desktop\\OEC\\OEC\\OEC\\OEC.csproj",
         "projectName": "OEC",
-        "projectPath": "C:\\Users\\Manny\\Downloads\\OEC\\OEC\\OEC\\OEC.csproj",
-        "packagesPath": "C:\\Users\\Manny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manny\\Downloads\\OEC\\OEC\\OEC\\obj\\",
+        "projectPath": "C:\\Users\\Arman\\Desktop\\OEC\\OEC\\OEC\\OEC.csproj",
+        "packagesPath": "C:\\Users\\Arman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arman\\Desktop\\OEC\\OEC\\OEC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Manny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

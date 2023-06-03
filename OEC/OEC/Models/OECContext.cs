@@ -29,7 +29,7 @@ namespace OEC.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.\\;Database=OEC;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=DESKTOP-607RP17\\SQLEXPRESS;Database=OEC;Trusted_Connection=True;");
             }
         }
 
